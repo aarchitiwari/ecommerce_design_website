@@ -1,1 +1,2 @@
-# ecommerce_design_website
+# Ecommerce_design_website
+This project is a design layout for an e-commerce website, crafted to serve as a user interface template for any company. The website is built using HTML, vanilla CSS, and JavaScript, ensuring a clean and efficient interface that is visually appealing. While the design is eye-catching and well-structured, it is important to note that this project is purely a static design and does not include any functional elements. It is intended to showcase the visual aspects and layout possibilities for an e-commerce platform.
